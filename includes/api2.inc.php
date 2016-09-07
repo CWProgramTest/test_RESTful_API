@@ -1,3 +1,5 @@
+//Sampled API code, not been used yet
+
 <?php 
 
 class Request {
